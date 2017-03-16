@@ -1,11 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a product hunt clone with Rails api in the backend and VueJS in the frontend.
+
+Branch develop is always ahead, please contribute in there (following the gitflow workflow).
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version: 2.3.3
 
 * System dependencies
 
